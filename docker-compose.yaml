@@ -2,7 +2,7 @@
 # See: https://github.com/sdr-enthusiasts/docker-install/blob/main/sample-docker-compose.yml
 # License: MIT
 # This file is based on the above.
-version: '3.8'
+# version: '3.8'
 services:
   ######################################################################################################################################
   # ADS-B Feeder Services. These containers feed ADS-B/UAT data to aggregator services.
